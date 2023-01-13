@@ -1,3 +1,4 @@
+import { EpisodeInstance } from "./Episode";
 // src/models/User.ts
 
 import { sequelize } from "../database";
@@ -22,6 +23,7 @@ export interface UserCreationAttributes extends Optional<User, "id"> {}
 export interface UserInstance
   extends Model<User, UserCreationAttributes>,
     User {
+  Episodes?: EpisodeInstance[];
   checkPassword: (password: string, callbackfn: CheckPasswordCallback) => void;
 }
 
