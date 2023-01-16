@@ -1,5 +1,5 @@
 # eadBaseDaNetflix
-EAD Inspirado na Netflix
+EAD Inspirado na Netflix - Parte do back-end
 
 Projeto inspirado no Netflix (um EAD). Um app baseado em cursos de programação 
 sob demanda. Com tela de autenticação de usuário e senha.
