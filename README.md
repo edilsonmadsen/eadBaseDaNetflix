@@ -1,5 +1,9 @@
 # EAD Inspirado na Netflix - Back-end
 
+<div align="center">
+<img src="" width="700px" />
+</div>
+
 Projeto inspirado no Netflix (um EAD). Um app baseado em cursos de programação 
 sob demanda. Com tela de autenticação de usuário e senha.
 Menu com catálogos separados por categorias, cursos e episódios.
