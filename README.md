@@ -1,8 +1,9 @@
 # EAD Inspirado na Netflix - Back-end
-
+<br>
 <div align="center">
-<img src="" width="700px" />
+<img src="https://user-images.githubusercontent.com/92545393/214473564-cf5db140-33c4-4c11-ac4f-d2aee5f09d65.svg" width="400px" />
 </div>
+<br>
 
 Projeto inspirado no Netflix (um EAD). Um app baseado em cursos de programação 
 sob demanda. Com tela de autenticação de usuário e senha.
