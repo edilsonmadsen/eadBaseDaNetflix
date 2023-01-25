@@ -11,16 +11,19 @@ API usando o nodeJS.Utilização do sequelize e postgresql.
 Utulizando também o appweb com o nextJS para consumo da API.
 Utilizado o postman para teste das requisições.
 
-## 🚀 Começando
+## ⚙️ Demonstração do projeto em execução
 
+Link aqui [video](https://linkvideodemo) da live Demo
+
+## 📌 Deploy do Projeto
+
+Link aqui [Deploy](http://semver.org/)
+
+## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
-## ⚙️ Live Demo do projeto em execução
-
-
 
 ### 🔧 Instalação
 
@@ -65,21 +68,9 @@ npm install ts-node-dev <br>
 * Postgres (Sequelize)
 * Html e SCSS
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autor
 
 * **Edilson Madsen**
 
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
 ---
-⌨️ com ❤️ por [Edilson Madsen](https://gist.github.com/edilsonmadsen) 😊
+⌨️ com ❤️ por [Edilson Madsen - LinkedLn](https://www.linkedin.com/in/edilsonmadsen/) 😊
