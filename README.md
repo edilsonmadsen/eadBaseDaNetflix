@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/92545393/214474317-62d393fe-bf69-481c-
 
 Link aqui [Deploy](http://semver.org/)
 
-## 🚀 Começando
+## 🚀 Começando - Start
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
