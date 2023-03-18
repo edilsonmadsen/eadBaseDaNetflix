@@ -31,6 +31,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
+
 ### 🔧 Instalação
 
 Instalar as dependências da implantação para execução do projeto:
@@ -68,11 +69,11 @@ npm install ts-node-dev <br>
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
 
-* Javascript
-* Typescript
-* NodeJs
-* Postgres (Sequelize)
-* Html e SCSS
+* Javascript;
+* Typescript;
+* NodeJs;
+* Postgres (Sequelize),
+* Html e SCSS.
 
 ## ✒️ Autor
 
