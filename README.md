@@ -13,6 +13,7 @@ Menu com catálogos separados por categorias, cursos e episódios.
 Com a opção de favoritar o curso, dar o like e a opção de adicionar videos 
 como exemplos.
 
+
 Na aba administração/usuários com a opção da criação de mais usuários.
 Foi utilizado um painel administrado gerenciado pelo adminJS, criando uma
 API usando o nodeJS.Utilização do sequelize e postgresql.
